@@ -1,1 +1,1 @@
-# first-package
+# Pacote: Operações Aritméticas Básicas
